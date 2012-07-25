@@ -1,7 +1,7 @@
 roach2_nfs_uboot
 ================
 
-All files required to boot ROACH2 using NFS, u-boot, kernel and on rom file system
+All files required to boot ROACH2 using NFS, u-boot, kernel and onboard rom file system
 
 These files usually go in "/home/nfs/roach2/", but this depends on how NFS and dnsmasq is configured. 
 Please perform all action as ROOT to retain correct permissions (git clone as ROOT). 
